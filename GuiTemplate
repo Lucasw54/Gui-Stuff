@@ -15,7 +15,7 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
-public class panellayout {
+public class classnamehere {
 	
 	private static JPanel panel;
 	private static JFrame frame;
